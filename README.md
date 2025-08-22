@@ -33,6 +33,14 @@ For **ethical use only** — audit systems you are authorized to test.
   * Send original and mutated tokens to a target endpoint.
   * Report HTTP status, response size, and possible improper acceptance.
 
+
+## Install
+
+```bash
+pip3 install jwt-auditor
+pip install jwt-auditor
+```
+
 ## 🚀 Usage
 
 ```bash
